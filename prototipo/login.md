@@ -1,3 +1,9 @@
-# Login
+# Pantalla Login
 
-Prototipo pantalla de inicio de sesión del Sistema Aduanero.
+Primera versión del acceso al Sistema de Gestión Aduanero Digital.
+
+Características:
+
+- Inicio de sesión.
+- Validación de credenciales.
+- Acceso seguro.
